@@ -1,0 +1,43 @@
+.penguins-card{
+    border: 0;
+}
+.penguins-card-footer{
+border: 0;
+background-color: white
+;
+}
+
+.penguins-slide .carousel-item{
+    background-color:#FCEAE8 ;
+    border-radius: 2em;
+
+}
+#subscrib{
+    background-color: #FCEAE8;
+    border-radius: 2em;
+}
+.btn{
+    background-color:rgb(126, 204, 9);
+    color: white;
+}
+
+.jackets{
+    background-color: gray;
+    padding: 2em;
+    height: 60;
+}
+h1{
+    color: orange;
+}
+h2{
+    color: rgb(126, 204, 9);
+}
+p{
+    color:olivedrab;
+}
+h3{
+    color: peru;
+}
+
+
+
